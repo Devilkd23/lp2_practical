@@ -1,2 +1,3 @@
 # lp2_practical
-This repo is created for practical exam
+A Simple WebAPP for Google App Engine Installation and Configuration
+
